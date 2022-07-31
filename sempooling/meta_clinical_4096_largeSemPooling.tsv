@@ -1,0 +1,484 @@
+Token	Sentença
+[CLS]	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+Pres	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##cre	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##vo	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+sinto	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##máticos	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+SN	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+(	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+Di	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##pi	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##ron	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##a	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+,	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+Ce	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##top	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##ro	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##fen	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##o	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+,	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+Z	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##yr	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##tec	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+,	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+Av	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##am	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##ys	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+,	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+Bro	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##me	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##xi	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##na	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+,	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+Lava	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##gem	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+nas	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##al	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+com	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+S	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+##F	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+)	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+;	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+[SEP]	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+[CLS]	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+Ori	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+##ent	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+##o	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+quanto	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+à	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+importância	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+do	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+isolamento	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+social	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+(	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+10	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+-	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+14	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+dias	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+a	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+partir	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+do	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+início	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+dos	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+sintomas	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
++	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+a	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+##48	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+##h	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+ass	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+##into	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+##mático	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+(	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+a	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+)	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
++	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+24	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+##h	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+afe	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+##bri	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+##l	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+)	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+e	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+higi	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+##ene	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+individual	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+,	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+além	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+da	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+necessidade	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+de	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+repou	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+##sar	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+,	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+manter	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+uma	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+alimentação	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+bala	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+##nce	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+##ada	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+e	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+se	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+hid	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+##ra	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+##tar	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+adequada	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+##mente	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+;	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+[SEP]	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+[CLS]	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+Ori	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+##ent	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+##o	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+à	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+buscar	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+atendimento	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+de	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+ur	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+##gência	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+em	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+caso	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+de	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+sintomas	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+graves	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+(	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+febre	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+>	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+39	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+,	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+[UNK]	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+que	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+não	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+cess	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+##a	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+com	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+uso	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+de	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+anti	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+##té	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+##r	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+##mico	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+,	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+disp	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+##ne	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+##ia	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+,	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+desma	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+##io	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+e	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+queda	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+do	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+quadro	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+geral	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+)	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+;	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+[SEP]	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+[CLS]	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+Ori	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+##ent	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+##o	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+ainda	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+a	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+retornar	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+o	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+contato	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+em	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+caso	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+de	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+pior	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+##a	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+dos	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+sintomas	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+;	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+[SEP]	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+[CLS]	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+Deix	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+##o	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+o	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+serviço	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+disponível	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+em	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+caso	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+de	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+du	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+##vidas	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+ou	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+necessidade	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+de	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+novas	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+orienta	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+##ções	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+.	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+[SEP]	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+[CLS]	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+Pac	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+##iente	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+com	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+Se	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+##pse	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+pul	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+##monar	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+em	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+D	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+##8	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+ta	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+##zo	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+##cin	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+(	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+paciente	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+não	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+recebeu	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+por	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+2	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+dias	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+At	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+##b	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+)	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+.	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+[SEP]	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+[CLS]	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+Acesso	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+ven	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+##oso	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+central	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+em	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+sub	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+##cla	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+##via	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+D	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+duplo	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+##lu	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+##men	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+recebendo	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+solução	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+sal	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+##ina	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+e	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+gl	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+##icos	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+##ada	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+em	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+B	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+##I	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+.	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+[SEP]	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+[CLS]	Oriento sobre aumento da ingesta hidrica.
+Ori	Oriento sobre aumento da ingesta hidrica.
+##ent	Oriento sobre aumento da ingesta hidrica.
+##o	Oriento sobre aumento da ingesta hidrica.
+sobre	Oriento sobre aumento da ingesta hidrica.
+aumento	Oriento sobre aumento da ingesta hidrica.
+da	Oriento sobre aumento da ingesta hidrica.
+ing	Oriento sobre aumento da ingesta hidrica.
+##esta	Oriento sobre aumento da ingesta hidrica.
+hid	Oriento sobre aumento da ingesta hidrica.
+##rica	Oriento sobre aumento da ingesta hidrica.
+.	Oriento sobre aumento da ingesta hidrica.
+[SEP]	Oriento sobre aumento da ingesta hidrica.
+[CLS]	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+Pres	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+##cre	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+##vo	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+Ce	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+##top	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+##ro	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+##fen	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+##o	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+e	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+desco	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+##lon	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+##ização	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+da	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+pele	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+com	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+Tric	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+##los	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+##an	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+,	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+e	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+manter	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+Mo	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+##met	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+##ason	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+##a	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+.	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+[SEP]	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+[CLS]	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+Pres	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+##cre	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+##vo	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+Li	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+##pos	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+##ic	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+5	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+##x	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+ao	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+dia	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+e	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+buscar	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+atendimento	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+com	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+Of	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+##tal	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+##mo	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+caso	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+sintomas	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+pers	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+##istir	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+##em	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+.	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+[SEP]	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+[CLS]	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+Ori	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+##ent	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+##o	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+buscar	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+atendimento	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+com	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+Der	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+##mato	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+##log	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+##ista	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+caso	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+não	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+haja	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+melhora	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+.	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+[SEP]	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+[CLS]	Entrar em contato em caso de piora.
+Ent	Entrar em contato em caso de piora.
+##rar	Entrar em contato em caso de piora.
+em	Entrar em contato em caso de piora.
+contato	Entrar em contato em caso de piora.
+em	Entrar em contato em caso de piora.
+caso	Entrar em contato em caso de piora.
+de	Entrar em contato em caso de piora.
+pior	Entrar em contato em caso de piora.
+##a	Entrar em contato em caso de piora.
+.	Entrar em contato em caso de piora.
+[SEP]	Entrar em contato em caso de piora.
+[CLS]	Evitar contato com familiares.
+Ev	Evitar contato com familiares.
+##itar	Evitar contato com familiares.
+contato	Evitar contato com familiares.
+com	Evitar contato com familiares.
+familiares	Evitar contato com familiares.
+.	Evitar contato com familiares.
+[SEP]	Evitar contato com familiares.
+[CLS]	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+Ori	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+##ent	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+##o	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+quanto	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+à	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+importância	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+do	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+isolamento	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+social	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+até	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+resultado	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+de	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+exame	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+e	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+por	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+pelo	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+menos	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+10	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+dias	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+dos	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+sintomas	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+[SEP]	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+[CLS]	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+Ori	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+##enta	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+##r	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+sobre	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+medidas	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+não	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+farmac	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+##ológicas	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+,	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+como	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+repouso	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+,	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+hid	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+##ra	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+##tação	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+e	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+alimentação	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+adequada	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+.	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+[SEP]	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+[CLS]	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+Ori	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+##ent	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+##o	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+sinais	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+de	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+alar	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+##me	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+e	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+necessidade	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+de	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+buscar	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+atendimento	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+de	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+ur	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+##gência	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+em	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+caso	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+de	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+sintomas	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+graves	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+.	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+[SEP]	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+[CLS]	oriento sobre aumento da ingesta hidrica
+orient	oriento sobre aumento da ingesta hidrica
+##o	oriento sobre aumento da ingesta hidrica
+sobre	oriento sobre aumento da ingesta hidrica
+aumento	oriento sobre aumento da ingesta hidrica
+da	oriento sobre aumento da ingesta hidrica
+ing	oriento sobre aumento da ingesta hidrica
+##esta	oriento sobre aumento da ingesta hidrica
+hid	oriento sobre aumento da ingesta hidrica
+##rica	oriento sobre aumento da ingesta hidrica
+[SEP]	oriento sobre aumento da ingesta hidrica
+[CLS]	Prescrevo aceclofenaco e predinisona por 3 dias.
+Pres	Prescrevo aceclofenaco e predinisona por 3 dias.
+##cre	Prescrevo aceclofenaco e predinisona por 3 dias.
+##vo	Prescrevo aceclofenaco e predinisona por 3 dias.
+ace	Prescrevo aceclofenaco e predinisona por 3 dias.
+##clo	Prescrevo aceclofenaco e predinisona por 3 dias.
+##fen	Prescrevo aceclofenaco e predinisona por 3 dias.
+##ac	Prescrevo aceclofenaco e predinisona por 3 dias.
+##o	Prescrevo aceclofenaco e predinisona por 3 dias.
+e	Prescrevo aceclofenaco e predinisona por 3 dias.
+pred	Prescrevo aceclofenaco e predinisona por 3 dias.
+##ini	Prescrevo aceclofenaco e predinisona por 3 dias.
+##son	Prescrevo aceclofenaco e predinisona por 3 dias.
+##a	Prescrevo aceclofenaco e predinisona por 3 dias.
+por	Prescrevo aceclofenaco e predinisona por 3 dias.
+3	Prescrevo aceclofenaco e predinisona por 3 dias.
+dias	Prescrevo aceclofenaco e predinisona por 3 dias.
+.	Prescrevo aceclofenaco e predinisona por 3 dias.
+[SEP]	Prescrevo aceclofenaco e predinisona por 3 dias.
+[CLS]	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+Ori	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+##enta	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+##do	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+ao	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+uso	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+de	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+anal	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+##gé	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+##si	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+##co	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+de	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+6	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+/	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+6	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+horas	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+se	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+dor	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+ou	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+febre	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+>	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+37	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+[SEP]	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+[CLS]	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+Devido	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+a	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+sensação	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+de	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+pressão	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+tor	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+##ác	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+##ica	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+orient	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+##o	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+atendimento	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+médico	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+pres	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+##encial	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+.	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+[SEP]	Devido a sensação de pressão torácica oriento atendimento médico presencial.

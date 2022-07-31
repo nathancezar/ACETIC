@@ -1,0 +1,259 @@
+Token	POS-Tag	Sentence
+Prescrevo	PROPN	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+sintomáticos	ADJ	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+SN	PROPN	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+(	PUNCT	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+Dipirona	PROPN	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+,	PUNCT	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+Cetoprofeno	PROPN	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+,	PUNCT	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+Zyrtec	PROPN	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+,	PUNCT	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+Avamys	PROPN	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+,	PUNCT	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+Bromexina	PROPN	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+,	PUNCT	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+Lavagem	NOUN	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+nasal	ADJ	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+com	ADP	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+SF	PROPN	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+)	PUNCT	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+;	PUNCT	Prescrevo sintomáticos SN (Dipirona, Cetoprofeno, Zyrtec, Avamys, Bromexina, Lavagem nasal com SF);
+Oriento	NOUN	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+quanto	ADV	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+à	DET	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+importância	NOUN	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+do	DET	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+isolamento	NOUN	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+social	ADJ	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+(	PUNCT	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+10-14	NUM	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+dias	NOUN	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+a	ADP	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+partir	VERB	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+do	DET	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+início	NOUN	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+dos	ADP	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+sintomas	NOUN	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
++	ADJ	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+a48h	NOUN	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+assintomático	ADJ	Oriento quanto à importância do isolamento social (10-14 dias a partir do início dos sintomas + a48h assintomático   (a) + 24h afebril) e higiene individual, além da necessidade de repousar, manter uma alimentação balanceada e se hidratar adequadamente;
+Oriento	NOUN	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+à	DET	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+buscar	VERB	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+atendimento	NOUN	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+de	ADP	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+urgência	NOUN	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+em	ADP	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+caso	NOUN	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+de	ADP	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+sintomas	NOUN	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+graves	ADJ	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+(	PUNCT	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+febre	NOUN	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+>	PROPN	Oriento à buscar atendimento de urgência em caso de sintomas graves (febre > 39,5ºC que não cessa com uso de antitérmico, dispneia, desmaio e queda do quadro geral);
+Oriento	NOUN	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+ainda	ADV	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+a	SCONJ	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+retornar	VERB	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+o	DET	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+contato	NOUN	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+em	ADP	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+caso	NOUN	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+de	ADP	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+piora	NOUN	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+dos	ADP	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+sintomas	NOUN	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+;	PUNCT	Oriento ainda a retornar o contato em caso de piora dos sintomas;
+Deixo	VERB	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+o	DET	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+serviço	NOUN	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+disponível	ADJ	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+em	ADP	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+caso	NOUN	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+de	ADP	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+duvidas	NOUN	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+ou	CCONJ	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+necessidade	NOUN	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+de	ADP	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+novas	ADJ	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+orientações	NOUN	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+.	PUNCT	Deixo o serviço disponível em caso de duvidas ou necessidade de novas orientações.
+Paciente	NOUN	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+com	ADP	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+Sepse	PROPN	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+pulmonar	PROPN	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+em	ADP	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+D8	PROPN	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+tazocin	PROPN	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+(	PUNCT	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+paciente	NOUN	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+não	ADV	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+recebeu	VERB	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+por	ADP	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+2	NUM	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+dias	NOUN	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+Atb	PROPN	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+)	PUNCT	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+.	PUNCT	Paciente com Sepse pulmonar em D8 tazocin (paciente não recebeu por 2 dias Atb).
+Acesso	NOUN	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+venoso	ADJ	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+central	NOUN	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+em	ADP	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+subclavia	PROPN	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+D	PROPN	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+duplolumen	VERB	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+recebendo	VERB	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+solução	NOUN	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+salina	ADJ	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+e	CCONJ	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+glicosada	VERB	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+em	ADP	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+BI	PROPN	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+.	PUNCT	Acesso venoso central em subclavia D duplolumen recebendo solução salina e glicosada em BI.
+Oriento	NOUN	Oriento sobre aumento da ingesta hidrica.
+sobre	ADP	Oriento sobre aumento da ingesta hidrica.
+aumento	NOUN	Oriento sobre aumento da ingesta hidrica.
+da	DET	Oriento sobre aumento da ingesta hidrica.
+ingesta	NOUN	Oriento sobre aumento da ingesta hidrica.
+hidrica	ADJ	Oriento sobre aumento da ingesta hidrica.
+.	PUNCT	Oriento sobre aumento da ingesta hidrica.
+Prescrevo	PROPN	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+Cetoprofeno	PROPN	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+e	CCONJ	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+descolonização	NOUN	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+da	DET	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+pele	NOUN	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+com	ADP	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+Triclosan	PROPN	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+,	PUNCT	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+e	CCONJ	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+manter	VERB	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+Mometasona	PROPN	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+.	PUNCT	Prescrevo Cetoprofeno e descolonização da pele com Triclosan, e manter Mometasona.
+Prescrevo	PROPN	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+Liposic	PROPN	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+5x	NOUN	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+ao	DET	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+dia	NOUN	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+e	CCONJ	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+buscar	VERB	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+atendimento	NOUN	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+com	ADP	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+Oftalmo	PROPN	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+caso	SCONJ	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+sintomas	NOUN	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+persistirem	VERB	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+.	PUNCT	Prescrevo Liposic 5x ao dia e buscar atendimento com Oftalmo caso sintomas persistirem.
+Oriento	NOUN	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+buscar	VERB	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+atendimento	NOUN	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+com	ADP	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+Dermatologista	NOUN	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+caso	SCONJ	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+não	ADV	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+haja	VERB	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+melhora	NOUN	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+.	PUNCT	Oriento buscar atendimento com Dermatologista caso não haja melhora.
+Entrar	VERB	Entrar em contato em caso de piora.
+em	ADP	Entrar em contato em caso de piora.
+contato	NOUN	Entrar em contato em caso de piora.
+em	ADP	Entrar em contato em caso de piora.
+caso	NOUN	Entrar em contato em caso de piora.
+de	ADP	Entrar em contato em caso de piora.
+piora	NOUN	Entrar em contato em caso de piora.
+.	PUNCT	Entrar em contato em caso de piora.
+Evitar	VERB	Evitar contato com familiares.
+contato	NOUN	Evitar contato com familiares.
+com	ADP	Evitar contato com familiares.
+familiares	NOUN	Evitar contato com familiares.
+.	PUNCT	Evitar contato com familiares.
+Oriento	NOUN	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+quanto	ADV	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+à	DET	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+importância	NOUN	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+do	DET	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+isolamento	NOUN	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+social	ADJ	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+até	ADP	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+resultado	NOUN	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+de	ADP	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+exame	NOUN	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+e	CCONJ	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+por	ADP	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+pelo	DET	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+menos	NOUN	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+10	NUM	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+dias	NOUN	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+dos	ADP	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+sintomas	NOUN	Oriento quanto à importância do isolamento social até resultado de exame e por pelo menos 10 dias dos sintomas
+Orientar	VERB	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+sobre	ADP	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+medidas	NOUN	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+não	ADV	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+farmacológicas	ADJ	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+,	PUNCT	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+como	ADP	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+repouso	NOUN	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+,	PUNCT	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+hidratação	NOUN	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+e	CCONJ	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+alimentação	NOUN	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+adequada	ADJ	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+.	PUNCT	Orientar sobre medidas não farmacológicas, como repouso, hidratação e alimentação adequada.
+Oriento	NOUN	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+sinais	NOUN	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+de	ADP	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+alarme	NOUN	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+e	CCONJ	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+necessidade	NOUN	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+de	SCONJ	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+buscar	VERB	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+atendimento	NOUN	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+de	ADP	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+urgência	NOUN	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+em	ADP	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+caso	NOUN	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+de	ADP	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+sintomas	NOUN	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+graves	ADJ	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+.	PUNCT	Oriento sinais de alarme e necessidade de buscar atendimento de urgência em caso de sintomas graves.
+oriento	NOUN	oriento sobre aumento da ingesta hidrica
+sobre	ADP	oriento sobre aumento da ingesta hidrica
+aumento	NOUN	oriento sobre aumento da ingesta hidrica
+da	DET	oriento sobre aumento da ingesta hidrica
+ingesta	NOUN	oriento sobre aumento da ingesta hidrica
+hidrica	ADJ	oriento sobre aumento da ingesta hidrica
+Prescrevo	PROPN	Prescrevo aceclofenaco e predinisona por 3 dias.
+aceclofenaco	ADJ	Prescrevo aceclofenaco e predinisona por 3 dias.
+e	CCONJ	Prescrevo aceclofenaco e predinisona por 3 dias.
+predinisona	ADJ	Prescrevo aceclofenaco e predinisona por 3 dias.
+por	ADP	Prescrevo aceclofenaco e predinisona por 3 dias.
+3	NUM	Prescrevo aceclofenaco e predinisona por 3 dias.
+dias	NOUN	Prescrevo aceclofenaco e predinisona por 3 dias.
+.	PUNCT	Prescrevo aceclofenaco e predinisona por 3 dias.
+Orientado	VERB	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+ao	DET	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+uso	NOUN	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+de	ADP	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+analgésico	NOUN	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+de	ADP	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+6/6	NUM	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+horas	NOUN	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+se	PRON	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+dor	NOUN	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+ou	CCONJ	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+febre	NOUN	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+>	NOUN	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+37	NUM	Orientado ao uso de analgésico de 6/6 horas se dor ou febre >37
+Devido	ADV	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+a	DET	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+sensação	NOUN	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+de	ADP	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+pressão	NOUN	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+torácica	ADJ	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+oriento	CCONJ	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+atendimento	NOUN	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+médico	ADJ	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+presencial	ADJ	Devido a sensação de pressão torácica oriento atendimento médico presencial.
+.	PUNCT	Devido a sensação de pressão torácica oriento atendimento médico presencial.

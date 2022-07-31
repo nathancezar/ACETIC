@@ -1,0 +1,10 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "Cohebert: última camada BERTimbau large",
+        "tensorShape": [1024, 337],
+        "tensorPath": "https://raw.githubusercontent.com/nathancezar/CliniAssist/master/Embeddings%20Projector/sempooling/records_clinical_4096_largeSemPooling.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/nathancezar/CliniAssist/master/Embeddings%20Projector/sempooling/meta_clinical_4096_largeSemPooling.tsv"
+      }
+    ]
+}
