@@ -19,4 +19,4 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/natha
 
 ## Geração dos arquivos
 
-Os arquivos utilizados pelo Embedding Projector foram gerados pelo notebook: 
+Os arquivos utilizados pelo Embedding Projector foram gerados pelo notebook: https://github.com/nathancezar/EmbeddingsProjectorClinicalTexts/blob/master/ExemplosVisualizacaoEmbeddingBERT_pt_br.ipynb
