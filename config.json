@@ -3,8 +3,8 @@
       {
         "tensorName": "Cohebert: última camada BERTimbau large",
         "tensorShape": [1024, 337],
-        "tensorPath": "https://raw.githubusercontent.com/nathancezar/CliniAssist/master/Embeddings%20Projector/compooling/records_clinical_4096_large_pool.tsv",
-        "metadataPath": "https://raw.githubusercontent.com/nathancezar/CliniAssist/master/Embeddings%20Projector/compooling/meta_clinical_4096_large_pool.tsv"
+        "tensorPath": "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/compooling/records_clinical_4096_large_pool.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/compooling/meta_clinical_4096_large_pool.tsv"
       }
     ]
 }
