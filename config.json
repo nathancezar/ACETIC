@@ -2,7 +2,7 @@
     "embeddings": [
       {
         "tensorName": "Textos Clínicos: concat 4 últimas camadas BERTimbau large",
-        "tensorShape": [4096, 496],
+        "tensorShape": [4096, 495],
         "tensorPath": "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/compooling/records_clinical_4096_large_pool.tsv",
         "metadataPath": "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/compooling/meta_clinical_4096_large_pool.tsv"
       }
