@@ -3,8 +3,8 @@
       {
         "tensorName": "Textos Clínicos: concat 4 últimas camadas BERTimbau large",
         "tensorShape": [4096, 1447],
-        "tensorPath": "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/compooling/records_clinical_4096_large_pool.tsv",
-        "metadataPath": "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/compooling/meta_clinical_4096_large_pool.tsv"
+        "tensorPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/compooling/records_clinical_4096_large_pool.tsv",
+        "metadataPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/compooling/meta_clinical_4096_large_pool.tsv"
       }
     ]
 }
