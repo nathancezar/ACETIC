@@ -17,6 +17,12 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/natha
 **Link** para o Embedding Projector com pooling através do arquivo config_pool.json:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/config.json
 
+## A pasta **"ner"** possui 1 versão dos textos clínicos com os embeddings de 50 sentenças selecionadas aleatoriamente e sem repetições:
+- 1 - Última camada do BERTimbau large
+
+**Link** para o Embedding Projector com NER através do arquivo config_ner.json:
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/config_ner.json
+
 ## Geração dos arquivos
 
 Os arquivos utilizados pelo Embedding Projector foram gerados pelo notebook: https://github.com/nathancezar/EmbeddingsProjectorClinicalTexts/blob/master/ExemplosVisualizacaoEmbeddingBERT_pt_br.ipynb
