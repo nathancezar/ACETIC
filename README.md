@@ -7,21 +7,24 @@ Os arquivos utilizados pelo visualizados estão divididos em duas pastas: **"com
 
 ## A pasta **"sempooling"** possui 1 versão dos textos clínicos com os embeddings dos tokens:
 - 1 - Concatenação das 4 últimas camadas do BERTimbau large
-
 **Link** para o Embedding Projector sem pooling através do arquivo config.json:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/congif_semPool.json
 
 ## A pasta **"compooling"** possui 1 versão dos textos clínicos com os embeddings das palavras e sua POS-Tag:
 - 1 - Concatenação das 4 últimas camadas do BERTimbau large
-
 **Link** para o Embedding Projector com pooling através do arquivo config_pool.json:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/config.json
 
-## A pasta **"ner"** possui 1 versão dos textos clínicos com os embeddings de 50 sentenças selecionadas aleatoriamente e sem repetições:
-- 1 - Última camada do BERTimbau large
-
+## A pasta **"ner"** possui 2 versões dos textos clínicos:
+### 1 - Os embeddings de 50 sentenças selecionadas aleatoriamente e sem repetições:
+ - Última camada do BERTimbau large
 **Link** para o Embedding Projector com NER através do arquivo config_ner.json:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/config_ner.json
+
+### 2 - Os embeddings de TODAS sentenças sem repetições:
+ - Última camada do BERTimbau large
+**Link** para o Embedding Projector com NER através do arquivo config_ner_all.json:
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/config_ner_all.json
 
 ## Geração dos arquivos
 
