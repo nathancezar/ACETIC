@@ -31,6 +31,15 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/natha
 **Link** para o Embedding Projector com NER através do arquivo config_ner_all.json:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/config_ner_all_4096.json
 
+## A pasta **"Janelas"** possui 5 experimentos utilizando janelas
+### Janelas criadas ao redor de palavras classificadas como CHEM (Remédios/Substâncias Quimicas)
+### As janelas utilizadas foram de tamanho 3, 5, 7 e 13.
+#### Todos os experimentos foram colocados em 1 único arquivo.
+  - Última camada do BERTimbau large
+**Link** para o Embedding Projector com Experimento de Janelas
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/config_janelas_CHEM.json
+
+
 ## Geração dos arquivos
 
 Os arquivos utilizados pelo Embedding Projector foram gerados pelo notebook: https://github.com/nathancezar/EmbeddingsProjectorClinicalTexts/blob/master/ExemplosVisualizacaoEmbeddingBERT_pt_br.ipynb
