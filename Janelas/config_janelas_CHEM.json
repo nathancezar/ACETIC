@@ -1,0 +1,34 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "Textos Clínicos - Todas Janelas: última camada BERTimbau large",
+        "tensorShape": [1024, 2526],
+        "tensorPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/Janelas/CHEM/records_sentencedocumento_janela_0.tsv",
+        "metadataPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/Janelas/CHEM/meta_sentencedocumento_janela_0.tsv"
+      },
+      {
+        "tensorName": "Textos Clínicos Janela tamanho 3: última camada BERTimbau large",
+        "tensorShape": [1024, 128],
+        "tensorPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/Janelas/CHEM/records_sentencedocumento_janela_1.tsv",
+        "metadataPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/Janelas/CHEM/meta_sentencedocumento_janela_1.tsv"
+      },
+      {
+        "tensorName": "Textos Clínicos Janela tamanho 5: última camada BERTimbau large",
+        "tensorShape": [1024, 123],
+        "tensorPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/Janelas/CHEM/records_sentencedocumento_janela_2.tsv",
+        "metadataPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/Janelas/CHEM/meta_sentencedocumento_janela_2.tsv"
+      },
+      {
+        "tensorName": "Textos Clínicos Janela tamanho 7: última camada BERTimbau large",
+        "tensorShape": [1024, 122],
+        "tensorPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/Janelas/CHEM/records_sentencedocumento_janela_3.tsv",
+        "metadataPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/Janelas/CHEM/meta_sentencedocumento_janela_3.tsv"
+      },
+      {
+        "tensorName": "Textos Clínicos Janela tamanho 13: última camada BERTimbau large",
+        "tensorShape": [1024, 118],
+        "tensorPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/Janelas/CHEM/records_sentencedocumento_janela_6.tsv",
+        "metadataPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/Janelas/CHEM/meta_sentencedocumento_janela_6.tsv"
+      }
+    ]
+}

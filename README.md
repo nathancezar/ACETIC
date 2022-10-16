@@ -1,43 +1,55 @@
 # Visualização dos Embeddings dos Textos Clínicos
 
-Visualização dos embeddings dos Textos CLínicos gerados pelo BERTimbau utilizando o Embedding Projector.
-https://projector.tensorflow.org/
+### Visualização dos embeddings dos Textos CLínicos gerados pelo BERTimbau utilizando o Embedding Projector.
+[Embeddings Projector](https://projector.tensorflow.org/)
 
-Os arquivos utilizados pelo visualizados estão divididos em duas pastas: **"compooling"** e **"sempooling"**. Quem indicam se foi utilizado o pooling dos embeddings dos tokens das palavras fora do vocabulário.
+> Os arquivos utilizados pelo visualizador estão divididos em pastas de acordo com a técnica utilizada. 
 
-## A pasta **"sempooling"** possui 1 versão dos textos clínicos com os embeddings dos tokens:
-- 1 - Concatenação das 4 últimas camadas do BERTimbau large
-**Link** para o Embedding Projector sem pooling através do arquivo config.json:
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/congif_semPool.json
+#### A pasta **"SemPooling"** possui 1 versão dos textos clínicos com os embeddings dos tokens:
+- Concatenação das 4 últimas camadas do BERTimbau large (4096)
+[*Link para o Embedding Projector SemPooling*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/SemPooling/congif_semPool.json)
 
-## A pasta **"compooling"** possui 1 versão dos textos clínicos com os embeddings das palavras e sua POS-Tag:
-- 1 - Concatenação das 4 últimas camadas do BERTimbau large
-**Link** para o Embedding Projector com pooling através do arquivo config_pool.json:
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/config.json
+#### A pasta **"ComPooling"** possui 1 versão dos textos clínicos com os embeddings das palavras e sua respectivas POS-Tags:
+- Utilizado o **pooling** apenas nos embeddings dos tokens das palavras fora do vocabulário (Out of Vocabulary) do BERTimbau.
+- Concatenação das 4 últimas camadas do BERTimbau large (4096)
+[*Link para o Embedding Projector ComPooling.*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/ComPooling/config.json)
 
-## A pasta **"ner"** possui 3 versões dos textos clínicos:
-### 1 - Os embedding de 50 sentenças selecionadas aleatoriamente e sem repetições:
- - Última camada do BERTimbau large
-**Link** para o Embedding Projector com NER através do arquivo config_ner.json:
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/config_ner.json
+### A pasta **"NER"** possui 3 experimentos distintos:
 
-### 2 - Os embeddings de TODAS sentenças sem repetições:
- - Última camada do BERTimbau large
-**Link** para o Embedding Projector com NER através do arquivo config_ner_all.json:
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/config_ner_all.json
+> A tarefa de NER foi realizada com consultas SPARQL ao Endpoint da [DBPedia](https://dbpedia.org/sparql), mantendo a classificação apenas das palavras reconhecidas pertencentes a "tipos" pré-definidos.
 
-### 3 - Os 4096 embeddings gerados pela concatenação das 4 Últimas camadas do BERT, usando TODAS as sentenças, sem repetições:
- - Última camada do BERTimbau large
-**Link** para o Embedding Projector com NER através do arquivo config_ner_all.json:
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/config_ner_all_4096.json
+#### 1 - Os embedding de 50 sentenças selecionadas aleatoriamente e sem repetições:
+ - Última camada do BERTimbau large (1024)
+[*Link para o Embedding Projector com NER*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/config_ner.json)
 
-## A pasta **"Janelas"** possui 5 experimentos utilizando janelas
-### Janelas criadas ao redor de palavras classificadas como CHEM (Remédios/Substâncias Quimicas)
-### As janelas utilizadas foram de tamanho 3, 5, 7 e 13.
-#### Todos os experimentos foram colocados em 1 único arquivo.
-  - Última camada do BERTimbau large
-**Link** para o Embedding Projector com Experimento de Janelas
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/config_janelas_CHEM.json
+#### 2 - Todas sentenças sem repetições:
+ - Última camada do BERTimbau large (1024)
+[*Link para o Embedding Projector com NER*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/config_ner_all.json)
+
+#### 3 - Todas as sentenças, sem repetições:
+- Concatenação das 4 Últimas camadas do BERTimbau large (4096)
+- [*Link para o Embedding Projector com NER.*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/config_ner_all_4096.json)
+
+
+## Experimentos com Janelas
+### O que são janelas
+
+Uma janela é um fragmento de tamanho pré-definido de uma sentença, onde o centro deste fragmento é composto por uma **palavra alvo**.
+
+> **Sentença:**
+>
+> Oriento buscar atendimento com Dermatologista caso não haja melhora
+>
+> **Janela de tamanho 5** (ou distância 2)
+>
+> atendimento com **Dermatologista** caso não
+
+#### A pasta **"Janelas"** possui 5 experimentos utilizando janelas
+- Janelas criadas ao redor de palavras classificadas como **Remédios/Substâncias Quimicas** (CHEM) pela [DBPedia](https://dbpedia.org/sparql).
+- Os experimentos utilizando janelas de tamanho 3, 5, 7 e 13 foram colocados em um mesmo arquivo.
+- Embeddings gerados pela última camada do BERTimbau large (1024)
+
+[*Link para o Embedding Projector do Experimento com Janelas ao redor da classe CHEM*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/Janelas/config_janelas_CHEM.json)
 
 
 ## Geração dos arquivos
