@@ -7,11 +7,13 @@
 
 #### A pasta **"SemPooling"** possui 1 versão dos textos clínicos com os embeddings dos tokens:
 - Concatenação das 4 últimas camadas do BERTimbau large (4096)
+
 [*Link para o Embedding Projector SemPooling*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/SemPooling/congif_semPool.json)
 
 #### A pasta **"ComPooling"** possui 1 versão dos textos clínicos com os embeddings das palavras e sua respectivas POS-Tags:
 - Utilizado o **pooling** apenas nos embeddings dos tokens das palavras fora do vocabulário (Out of Vocabulary) do BERTimbau.
 - Concatenação das 4 últimas camadas do BERTimbau large (4096)
+
 [*Link para o Embedding Projector ComPooling.*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/ComPooling/config.json)
 
 ### A pasta **"NER"** possui 3 experimentos distintos:
@@ -20,15 +22,18 @@
 
 #### 1 - Os embedding de 50 sentenças selecionadas aleatoriamente e sem repetições:
  - Última camada do BERTimbau large (1024)
+
 [*Link para o Embedding Projector com NER*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/config_ner.json)
 
 #### 2 - Todas sentenças sem repetições:
  - Última camada do BERTimbau large (1024)
+
 [*Link para o Embedding Projector com NER*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/config_ner_all.json)
 
 #### 3 - Todas as sentenças, sem repetições:
 - Concatenação das 4 Últimas camadas do BERTimbau large (4096)
-- [*Link para o Embedding Projector com NER.*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/config_ner_all_4096.json)
+
+[*Link para o Embedding Projector com NER.*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/config_ner_all_4096.json)
 
 
 ## Experimentos com Janelas
