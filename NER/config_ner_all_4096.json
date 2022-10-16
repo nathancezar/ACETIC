@@ -3,7 +3,7 @@
       {
         "tensorName": "NER Textos Clínicos All: última camada BERTimbau large",
         "tensorShape": [4096, 387],
-        "tensorPath": "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/records_sentence_DO_4096_large_MEAN.tsv",
+        "tensorPath": "https://media.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/records_sentence_DO_4096_large_MEAN.tsv",
         "metadataPath": "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/meta_sentence_DO_4096_large_MEAN.tsv"
       }
     ]

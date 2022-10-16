@@ -6,7 +6,7 @@
         1024,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/records_sentence_DO_1024_large_MEAN.tsv",
+      "tensorPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/records_sentence_DO_1024_large_MEAN.tsv",
       "metadataPath": "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/meta_sentence_DO_1024_large_MEAN.tsv",
       "bookmarksPath": [
         "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/NER-Embbedings_das_sentencas.txt",
