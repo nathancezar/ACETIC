@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "NER Textos Clínicos All: última camada BERTimbau large",
+        "tensorShape": [1024, 387],
+        "tensorPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/Visualizacoes/NER/records_sentence_DO_1024_large_MEAN_ALL.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/Visualizacoes/NER/meta_sentence_DO_1024_large_MEAN_ALL.tsv",
+        "bookmarksPath": [
+          "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/T_SNE - Todas as Sentencas Sem repeticao-1024.txt"
+        ]
+      }
+    ]
+}

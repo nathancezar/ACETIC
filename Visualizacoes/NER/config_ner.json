@@ -1,0 +1,17 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "NER Textos Clínicos: última camada BERTimbau large",
+      "tensorShape": [
+        1024,
+        50
+      ],
+      "tensorPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/Visualizacoes/NER/records_sentence_DO_1024_large_MEAN.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/Visualizacoes/NER/meta_sentence_DO_1024_large_MEAN.tsv",
+      "bookmarksPath": [
+        "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/Visualizacoes/NER/NER-Embbedings_das_sentencas.txt",
+        "https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/Visualizacoes/NER/tsne_50_classe.txt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "NER Tokens Textos Clínicos: última camada BERTimbau large",
+        "tensorShape": [
+          1024,
+          10691
+        ],
+        "tensorPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/Visualizacoes/NER/records_token_DO_1024_large_POOL.tsv",
+        "metadataPath": "https://media.githubusercontent.com/media/nathancezar/EmbeddingsProjectorClinicalTexts/master/Visualizacoes/NER/meta_token_DO_1024_large_POOL.tsv"
+      }
+    ]
+  }
