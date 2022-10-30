@@ -22,7 +22,8 @@
 
 #### 1 - Os embeddings dos tokens de 277 documentos, sem repetição:
     - Última camada do BERTimbau large (1024)
-    [*Link para o Embedding Projector de Tokens com NER*](https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/config_ner_token.json)
+    
+[*Link para o Embedding Projector de Tokens com NER*](https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/config_ner_token.json)
 
 #### 2 - Os embedding de 50 sentenças selecionadas aleatoriamente e sem repetições:
  - Última camada do BERTimbau large (1024)
