@@ -62,6 +62,9 @@ Uma janela é um fragmento de tamanho pré-definido de uma sentença, onde o cen
 [*Link para o Embedding Projector do Experimento com Janelas ao redor da classe CHEM*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/Visualizacoes/Janelas/config_janelas_CHEM.json)
 
 
+#### A pasta **"Exemplos Apresentacao"** contem os exemplos utilizados na apresentacao do TCC.
+[*Link para o Embedding Projector do Exemplo*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/Visualizacoes/Exemplos Apresentacao/config_exemp_apr.json)
+
 ## Geração dos arquivos
 
 Os arquivos utilizados pelo Embedding Projector foram gerados pelo notebook: https://github.com/nathancezar/EmbeddingsProjectorClinicalTexts/blob/master/Exemplos/ExemplosVisualizacaoEmbeddingBERT_pt_br.ipynb

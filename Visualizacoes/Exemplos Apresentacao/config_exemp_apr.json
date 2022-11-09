@@ -1,0 +1,16 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "Exemplo Apresentacao BERTimbau large: Concat das 4 ultimas camadas",
+        "tensorShape": [
+          4096,
+          37
+        ],
+        "tensorPath": "https://media.githubusercontent.com/media/nathancezar/ACETIC/master/Visualizacoes/Exemplos%20Apresentacao/records_4096_large_pool.tsv",
+        "metadataPath": "https://media.githubusercontent.com/media/nathancezar/ACETIC/master/Visualizacoes/Exemplos%20Apresentacao/meta_4096_large_pool.tsv",
+        "bookmarksPath": [
+            "https://raw.githubusercontent.com/nathancezar/ACETIC/master/Visualizacoes/Exemplos%20Apresentacao/Exemplo2Embeddings.txt"
+        ]
+      }
+    ]
+  }
