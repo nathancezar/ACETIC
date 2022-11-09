@@ -63,7 +63,7 @@ Uma janela é um fragmento de tamanho pré-definido de uma sentença, onde o cen
 
 
 #### A pasta **"Exemplos Apresentacao"** contem os exemplos utilizados na apresentacao do TCC.
-[*Link para o Embedding Projector do Exemplo*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/Visualizacoes/Exemplos Apresentacao/config_exemp_apr.json)
+[*Link para o Embedding Projector do Exemplo*](https://projector.tensorflow.org/?config=https://github.com/nathancezar/ACETIC/blob/master/Visualizacoes/Exemplos%20Apresentacao/config_exemp_apr.json)
 
 ## Geração dos arquivos
 
