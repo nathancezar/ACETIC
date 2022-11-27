@@ -1,0 +1,14 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "Exemplo 1 - Cap. 5.5 - BERTimbau large - UMAP",
+        "tensorShape": [
+          4096,
+          10690
+        ],
+        "tensorPath": "",
+        "metadataPath": "",
+        "bookmarksPath": ""
+      }
+    ]
+  }
